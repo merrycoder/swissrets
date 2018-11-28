@@ -23,7 +23,7 @@ export
         1..1 properties
           1..n propertyRef
   0..1 properties
-      0..n property
+      1..n property
         1..1 softwareInformation
         0..1 zoneTypes
         0..1 parcelNumbers
